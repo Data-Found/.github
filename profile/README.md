@@ -3,8 +3,8 @@
 
 ### Integrantes
 - [Leonardo Brito de Oliviera](https://github.com/leobr1t0)
-- [Matheus Leone Silva](https://github.com/Matheu5Leone)
 - [Matheus Fernandes Rodrigues](https://github.com/Fernandeess)
+- [Matheus Leone Silva](https://github.com/Matheu5Leone)
 - [Rebeca Lia Taborda Serafim](https://github.com/RebecaLia)
 - [Samuel de Oliveira Pereira](https://github.com/Samuel-Oli-P)
 
